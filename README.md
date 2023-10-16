@@ -5,3 +5,4 @@
 - 📫 You can reach out to me at https://www.twitter.com/farmanal1i
 
 [#My Hacktoberfest badges](https://www.holopin.io/@farmanal1#badges)
+[![An image of @farmanal1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farmanal1)](https://holopin.io/@farmanal1)
